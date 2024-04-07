@@ -1,6 +1,6 @@
 python==3.11.8
 matplotlib==3.7.3
-seaborn
-numpy
-pandas
+seaborn==0.13.2
+numpy==1.26.3
+pandas==2.2.0
 xgboost
